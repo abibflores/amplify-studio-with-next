@@ -1,0 +1,28 @@
+{
+  "name": "amplify-studio-with-next",
+  "version": "1.0.0",
+  "description": "In this repo",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abibflores/amplify-studio-with-next.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abibflores/amplify-studio-with-next/issues"
+  },
+  "homepage": "https://github.com/abibflores/amplify-studio-with-next#readme",
+  "dependencies": {
+    "@aws-amplify/datastore": "^3.12.3",
+    "@aws-amplify/ui-react": "^3.2.0",
+    "aws-amplify": "^4.3.28",
+    "next": "^12.2.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
